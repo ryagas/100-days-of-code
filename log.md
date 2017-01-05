@@ -29,3 +29,13 @@
 
 **Link(s) to work**
 1. [Target a Specific Child of an Element Using jQuery](https://www.freecodecamp.com/challenges/target-a-specific-child-of-an-element-using-jquery)
+
+
+### Day 2: Jan 4, Wednesday
+
+**Today's Progress**: A few more jQuery tutorial challenges, leading to the first project
+
+**Thoughts**: Learned the importance of using 'target="_blank'" to force CodePen to open the links in a new tab. Started the tribute page project. Selected a subject (Nolan Bushnell) and began building the page, using online reference material.
+
+**Link(s) to work**
+1. [Tribute Page](http://codepen.io/ryagas/pen/dNPvOm)
