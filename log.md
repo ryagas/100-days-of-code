@@ -39,3 +39,12 @@
 
 **Link(s) to work**
 1. [Tribute Page](http://codepen.io/ryagas/pen/dNPvOm)
+
+### Day 3: Jan 5, Thursday
+
+**Today's Progress**: All the content of the tribute page is in place. Still need to make the formatting happen
+
+**Thoughts**: Copy-paste of elements gets tedious (long list items, for example). Tried using some basic text editors geared towards HTML.
+
+**Link(s) to work**
+1. [Tribute Page](http://codepen.io/ryagas/pen/dNPvOm)
