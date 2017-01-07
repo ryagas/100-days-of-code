@@ -48,3 +48,12 @@
 
 **Link(s) to work**
 1. [Tribute Page](http://codepen.io/ryagas/pen/dNPvOm)
+
+### Day 4: Jan 6, Friday
+
+**Today's Progress**: Layout's done! Page is done! :)
+
+**Thoughts**: Became more familiar with Bootstrap for layout. It's nice not to have to have to write any CSS separately to get a decent layout.
+
+**Link(s) to work**
+1. [Tribute Page](http://codepen.io/ryagas/pen/dNPvOm)
