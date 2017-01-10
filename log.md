@@ -57,3 +57,12 @@
 
 **Link(s) to work**
 1. [Tribute Page](http://codepen.io/ryagas/pen/dNPvOm)
+
+### Day 5: Jan 9, Monday
+
+**Today's Progress**: Change of plans to jump into algorithm challenges after a bit of Javascript OO and functional programming brush-up.
+
+**Thoughts**: Will dig into these challenges to get the problem-solving neurons firing properly.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/reverse-a-string
