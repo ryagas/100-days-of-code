@@ -66,3 +66,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/reverse-a-string
+
+### Day 6: Jan 10, Tuesday
+
+**Today's Progress**: Completed factorial challenge. Stuck on palindrome challenge.
+
+**Thoughts**: Realized my check doesn't currently check the reversed string properly yet. Will work on it more tomorrow.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/factorialize-a-number
