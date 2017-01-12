@@ -75,3 +75,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/factorialize-a-number
+
+### Day 7: Jan 11, Wednesday
+
+**Today's Progress**: Completed palindrome challenge.
+
+**Thoughts**: There's a few things needing remembering for JS, such as chaining, and array indexing shortcuts, and regex syntax needed a refresher too. :|
+
+**Link(s) to work**
+1.https://www.freecodecamp.com/challenges/check-for-palindromes
