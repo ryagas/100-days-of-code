@@ -52,3 +52,53 @@ function palindrome(str) {
   // if we're here, we have a palindrome!
   return true;
 }
+
+function findLongestWord(str) {
+  var longest = 0;
+
+  // split into array of strings
+  var words = str.split(" ");
+
+  // loop through each string and set longest value of length
+  words.forEach(function (element) {
+    if (longest < element.length) {
+      longest = element.length;
+    }
+  });
+  return longest;
+}
+
+findLongestWord("The quick brown fox jumped over the lazy dog");
+
+function titleCase(str) {
+  //split into words
+  return str.split(' ')
+    //uppercase first letter, lowercase rest of words
+    .map(function (val) {
+      return val.charAt(0).toUpperCase() + val.substr(1).toLowerCase();
+    })
+    // join back into string
+    .join(' ');
+}
+
+titleCase("I'm a little tea pot");
+
+function largestOfFour(arr) {
+  // You can do this!
+  result = [];
+
+  // for each sub-array
+  for (var n = 0; n < arr.length; n++) {
+    var largest = 0;
+    for (var i = 0; i < arr[n].length; i++) {
+      if (arr[n][i] > largest) {// find the largest
+        largest = arr[n][i];
+      }
+      // set item in result
+      result[n] = largest;
+    }
+  }
+  
+  return result;
+}
+

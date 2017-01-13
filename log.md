@@ -84,3 +84,12 @@
 
 **Link(s) to work**
 1.https://www.freecodecamp.com/challenges/check-for-palindromes
+
+### Day 8: Jan 12, Thursday
+
+**Today's Progress**: Completed "Find the Longest Word", "Title Case a Sentence", "Return Largest Numbers in Arrays.
+
+**Thoughts**: Definitely feeling comfortable with looping-style algorithms
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/return-largest-numbers-in-arrays
