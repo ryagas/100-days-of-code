@@ -93,3 +93,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/return-largest-numbers-in-arrays
+
+### Day 9: Jan 17, Tuesday
+
+**Today's Progress**: Completed "Confirm the Ending" challenge.
+
+**Thoughts**: Intuited that it's not as simple as an "==" comparison between two String objects, but it's simple enough, once the proper substring is extracted.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/confirm-the-ending

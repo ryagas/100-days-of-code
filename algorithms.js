@@ -102,3 +102,18 @@ function largestOfFour(arr) {
   return result;
 }
 
+
+function confirmEnding(str, target) {
+  // "Never give up and good luck will find you."
+  // -- Falcor
+  var subLength = target.length;
+  var subStr = str.substr(-(subLength));
+  if (subStr.localeCompare(target) !== 0) {
+    return false;
+  }
+  else {
+    return true;
+  }
+}
+
+confirmEnding("Bastian", "n");
