@@ -98,7 +98,7 @@ function largestOfFour(arr) {
       result[n] = largest;
     }
   }
-  
+
   return result;
 }
 
@@ -117,3 +117,26 @@ function confirmEnding(str, target) {
 }
 
 confirmEnding("Bastian", "n");
+
+
+function repeatStringNumTimes(str, num) {
+  // repeat after me
+
+  if (num === 1) {
+    return str;
+  }
+
+  else if (num < 0) {
+    return "";
+  }
+
+  else {
+    result = str;
+    for (var i = num; i > 1; i--) {
+      result = result.concat(str);
+    }
+  }
+  return result;
+}
+
+repeatStringNumTimes("abc", 3);

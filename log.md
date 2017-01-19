@@ -102,3 +102,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/confirm-the-ending
+
+### Day 10: Jan 18, Wednesday
+
+**Today's Progress**: Completed "Repeat a string repeat a string"
+
+**Thoughts**: Was a little too clever at first, concatenating the result string onto itself instead of the passed-in string.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string
