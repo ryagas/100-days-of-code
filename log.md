@@ -111,3 +111,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string
+
+### Day 11: Jan 22, Sunday
+
+**Today's Progress**: Completed "Truncate a string"
+
+**Thoughts**: Need to be careful to cover all relevant possible cases when testing conditions.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/truncate-a-string
