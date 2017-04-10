@@ -120,3 +120,14 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/truncate-a-string
+
+### Day 12: Apr 10, Monday
+
+**Today's Progress**: Began Final Project for Udacity's Object-Oriented JavaScript Course. Updated README with TODO note. Began implementing enemy and player behavior. :D
+
+**Thoughts**: Mostly setting up WebStorm and Git repos. Exploring the frontend skeleton setup already by Udacity. Fleshing out the skeleton a bit before considering any "extras", like scoring.
+
+**Link(s) to work**
+1. https://github.com/udacity/frontend-nanodegree-arcade-game
+2. https://github.com/ryagas/frontend-nanodegree-arcade-game
+
