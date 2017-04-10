@@ -93,3 +93,30 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.com/challenges/return-largest-numbers-in-arrays
+
+### Day 9: Jan 17, Tuesday
+
+**Today's Progress**: Completed "Confirm the Ending" challenge.
+
+**Thoughts**: Intuited that it's not as simple as an "==" comparison between two String objects, but it's simple enough, once the proper substring is extracted.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/confirm-the-ending
+
+### Day 10: Jan 18, Wednesday
+
+**Today's Progress**: Completed "Repeat a string repeat a string"
+
+**Thoughts**: Was a little too clever at first, concatenating the result string onto itself instead of the passed-in string.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string
+
+### Day 11: Jan 22, Sunday
+
+**Today's Progress**: Completed "Truncate a string"
+
+**Thoughts**: Need to be careful to cover all relevant possible cases when testing conditions.
+
+**Link(s) to work**
+1. https://www.freecodecamp.com/challenges/truncate-a-string

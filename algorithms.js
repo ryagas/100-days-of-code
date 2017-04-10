@@ -98,7 +98,72 @@ function largestOfFour(arr) {
       result[n] = largest;
     }
   }
-  
+
   return result;
 }
 
+
+function confirmEnding(str, target) {
+  // "Never give up and good luck will find you."
+  // -- Falcor
+  var subLength = target.length;
+  var subStr = str.substr(-(subLength));
+  if (subStr.localeCompare(target) !== 0) {
+    return false;
+  }
+  else {
+    return true;
+  }
+}
+
+confirmEnding("Bastian", "n");
+
+
+function repeatStringNumTimes(str, num) {
+  // repeat after me
+
+  if (num === 1) {
+    return str;
+  }
+
+  else if (num < 0) {
+    return "";
+  }
+
+  else {
+    result = str;
+    for (var i = num; i > 1; i--) {
+      result = result.concat(str);
+    }
+  }
+  return result;
+}
+
+repeatStringNumTimes("abc", 3);
+
+
+function truncateString(str, num) {
+  // Clear out that junk in your trunk
+
+  if (str.length < num) {
+    return str;
+  }
+  else if (str.length === num) {
+    return str;
+  } 
+  else if (str.length < 3 && num < str.length) {
+    slice1 = str.slice(0, -num );
+    result = slice1 + "...";
+  }
+  else if (num < 3 && (str.length > 3)) {
+    slice1 = str.slice(0, num );
+    result = slice1 + "...";
+  }
+  else {
+    slice1 = str.slice(0, num );
+    result = slice1.slice(0, -3) + "...";
+  }
+  return result;
+}
+
+truncateString("A-tisket a-tasket A green and yellow basket", 11);
