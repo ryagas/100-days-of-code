@@ -22,7 +22,7 @@
 
  
 
-### Day 1: 
+### Day 1 - August 19, 2019: 
 
 **Today's Progress**: 
 Completed Basic Javascript challenges up through [Word Blanks](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/word-blanks)
