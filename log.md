@@ -41,7 +41,7 @@ Completed Basic Javascript challenges up to [Comparison with the Greater Than Op
 **Thoughts:** 
 Neat the .unshift can push a value onto the *front* of an array. :)
 **Link to work:**  
-
+https://twitter.com/ryagas/status/1163719099781963779
 <!-- TEMPLATE 
 
 ### Day X: 
