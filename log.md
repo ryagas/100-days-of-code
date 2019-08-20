@@ -32,6 +32,16 @@ Just making sure to reinforce the basics before the challenges ramp up.
 
 **Link to work:**  
 https://twitter.com/ryagas/status/1163354861011795969
+ 
+
+### Day 2 - August 20, 2019: 
+
+**Today's Progress**: 
+Completed Basic Javascript challenges up to [Comparison with the Greater Than Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator)
+**Thoughts:** 
+Neat the .unshift can push a value onto the *front* of an array. :)
+**Link to work:**  
+
 <!-- TEMPLATE 
 
 ### Day X: 
