@@ -53,6 +53,15 @@ Object properties instead of a switch statement? Interesting.
 **Link to work:**  
 https://twitter.com/ryagas/status/1164073612359323648
 
+TEMPLATE 
+### Day 4 - August 21, 2019: 
+
+**Today's Progress**: 
+Completed the [Basic JavaScript: Record Collection](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection) challenge.
+**Thoughts:** 
+Probably a bit messy in the if-else department.
+**Link to work:**  
+
 <!-- TEMPLATE 
 ### Day X: 
 
