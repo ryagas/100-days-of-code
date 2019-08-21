@@ -51,7 +51,7 @@ Completed Basic Javascript challenges up to [Basic JavaScript: Using Objects for
 **Thoughts:** 
 Object properties instead of a switch statement? Interesting.
 **Link to work:**  
-
+https://twitter.com/ryagas/status/1164073612359323648
 
 <!-- TEMPLATE 
 ### Day X: 
