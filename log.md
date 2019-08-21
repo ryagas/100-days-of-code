@@ -22,7 +22,7 @@
 
  
 
-### Day 1 - August 19, 2019: 
+### Day 1 - August 18, 2019: 
 
 **Today's Progress**: 
 Completed Basic Javascript challenges up through [Word Blanks](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/word-blanks)
@@ -34,7 +34,7 @@ Just making sure to reinforce the basics before the challenges ramp up.
 https://twitter.com/ryagas/status/1163354861011795969
  
 
-### Day 2 - August 20, 2019: 
+### Day 2 - August 19, 2019: 
 
 **Today's Progress**: 
 Completed Basic Javascript challenges up to [Comparison with the Greater Than Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator)
@@ -42,8 +42,18 @@ Completed Basic Javascript challenges up to [Comparison with the Greater Than Op
 Neat the .unshift can push a value onto the *front* of an array. :)
 **Link to work:**  
 https://twitter.com/ryagas/status/1163719099781963779
-<!-- TEMPLATE 
+ 
 
+### Day 3 - August 20, 2019: 
+
+**Today's Progress**: 
+Completed Basic Javascript challenges up to [Basic JavaScript: Using Objects for Lookups](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups)
+**Thoughts:** 
+Object properties instead of a switch statement? Interesting.
+**Link to work:**  
+
+
+<!-- TEMPLATE 
 ### Day X: 
 
 **Today's Progress**: 
@@ -51,4 +61,5 @@ https://twitter.com/ryagas/status/1163719099781963779
 **Thoughts:** 
 
 **Link to work:**  
+
 -->
