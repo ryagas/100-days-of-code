@@ -1,74 +1,80 @@
 # 100 Days Of Code - Log
 
+<!-- TEMPLATE
 
-<!-- TEMPLATE 
+### Day X:
 
-### Day X: 
+**Today's Progress**:
 
-**Today's Progress**: 
+**Thoughts:**
 
-**Thoughts:** 
-
-**Link to work:**  
+**Link to work:**
 -->
 
-### Day 0: 
+### Day 0:
 
 **Today's Progress**: Unarchived the github repo for the challenge, reset the log.
 
 **Thoughts:** Re-commiting to the challenge. It just makes sense now since I know I need to practice the stuff I'm learning in order for it to "stick."
 
-**Link to work:**  [Github repo](https://github.com/ryagas/100-days-of-code)
+**Link to work:** [Github repo](https://github.com/ryagas/100-days-of-code)
 
- 
+### Day 1 - August 18, 2019:
 
-### Day 1 - August 18, 2019: 
-
-**Today's Progress**: 
+**Today's Progress**:
 Completed Basic Javascript challenges up through [Word Blanks](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/word-blanks)
 
-**Thoughts:** 
+**Thoughts:**
 Just making sure to reinforce the basics before the challenges ramp up.
 
 **Link to work:**  
 https://twitter.com/ryagas/status/1163354861011795969
- 
 
-### Day 2 - August 19, 2019: 
+### Day 2 - August 19, 2019:
 
-**Today's Progress**: 
+**Today's Progress**:
 Completed Basic Javascript challenges up to [Comparison with the Greater Than Operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator)
-**Thoughts:** 
-Neat the .unshift can push a value onto the *front* of an array. :)
+**Thoughts:**
+Neat the .unshift can push a value onto the _front_ of an array. :)
 **Link to work:**  
 https://twitter.com/ryagas/status/1163719099781963779
- 
 
-### Day 3 - August 20, 2019: 
+### Day 3 - August 20, 2019:
 
-**Today's Progress**: 
+**Today's Progress**:
 Completed Basic Javascript challenges up to [Basic JavaScript: Using Objects for Lookups](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups)
-**Thoughts:** 
+**Thoughts:**
 Object properties instead of a switch statement? Interesting.
 **Link to work:**  
 https://twitter.com/ryagas/status/1164073612359323648
 
-TEMPLATE 
-### Day 4 - August 21, 2019: 
+TEMPLATE
 
-**Today's Progress**: 
+### Day 4 - August 21, 2019:
+
+**Today's Progress**:
 Completed the [Basic JavaScript: Record Collection](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection) challenge.
-**Thoughts:** 
+**Thoughts:**
 Probably a bit messy in the if-else department.
-**Link to work:**  
+**Link to work:**
 
-<!-- TEMPLATE 
-### Day X: 
+TEMPLATE
 
-**Today's Progress**: 
+### Day 5 - August 24, 2019:
 
-**Thoughts:** 
+**Today's Progress**:
+Finished the basic Javascript challenges. On to [ES6 challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)!
+**Thoughts:**
+Ternary operator is fun! :D
+**Link to work:**
 
-**Link to work:**  
+<!-- TEMPLATE
+### Day X:
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
 
 -->
