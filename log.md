@@ -48,8 +48,6 @@ Object properties instead of a switch statement? Interesting.
 **Link to work:**  
 https://twitter.com/ryagas/status/1164073612359323648
 
-TEMPLATE
-
 ### Day 4 - August 21, 2019:
 
 **Today's Progress**:
@@ -58,14 +56,20 @@ Completed the [Basic JavaScript: Record Collection](https://learn.freecodecamp.o
 Probably a bit messy in the if-else department.
 **Link to work:**
 
-TEMPLATE
-
 ### Day 5 - August 24, 2019:
 
 **Today's Progress**:
 Finished the basic Javascript challenges. On to [ES6 challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)!
 **Thoughts:**
 Ternary operator is fun! :D
+**Link to work:**
+
+### Day 6 - August 25, 2019:
+
+**Today's Progress**:
+Finished the ES6 challenges. On to [Introduction to the Regular Expression Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions).
+**Thoughts:**
+These seem to be everywhere in programming. :D
 **Link to work:**
 
 <!-- TEMPLATE
