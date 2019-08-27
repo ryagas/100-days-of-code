@@ -72,6 +72,14 @@ Finished the ES6 challenges. On to [Introduction to the Regular Expression Chall
 These seem to be everywhere in programming. :D
 **Link to work:**
 
+### Day 7 - August 27, 2019:
+
+**Today's Progress**:
+Completed the RegEx challenges. Next up: [Debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging)!
+**Thoughts:**
+Sometimes, the wording of the challenges can be a bit ambiguous. I suppose that's preparation for real life. :)
+**Link to work:**
+
 <!-- TEMPLATE
 ### Day X:
 
