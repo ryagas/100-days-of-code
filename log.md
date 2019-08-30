@@ -80,6 +80,15 @@ Completed the RegEx challenges. Next up: [Debugging](https://learn.freecodecamp.
 Sometimes, the wording of the challenges can be a bit ambiguous. I suppose that's preparation for real life. :)
 **Link to work:**
 
+### Day 8-9 - August 29, 2019:
+
+**Today's Progress**:
+Finished the Debugging, Basic Data Structures, Algorithms, and OOP challenges. Partially through Functional Programming.
+<https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming>
+**Thoughts:**
+Did the work, forgot to post.
+**Link to work:**
+
 <!-- TEMPLATE
 ### Day X:
 
