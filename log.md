@@ -89,7 +89,7 @@ Finished the Debugging, Basic Data Structures, Algorithms, and OOP challenges. P
 Did the work, forgot to post.
 **Link to work:**
 
-### Day 10-12:
+### Day 10-12 - September 1, 2019:
 
 **Today's Progress**:
 Fell into a bit of a rabbit hole at CodinGame. Managed (so far) to reach level 4 (bronze league scrub.)
@@ -100,7 +100,7 @@ This AI stuff is kind of tough. Going to have to find more info on it.
 [My CodinGame Profile](https://www.codingame.com/profile?utm_source=twitter&utm_medium=profile&utm_content=3465366&utm_campaign=Share%20options)
 
 <!-- TEMPLATE
-### Day X:
+### Day X - DATE:
 
 **Today's Progress**:
 
