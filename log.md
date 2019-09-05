@@ -99,6 +99,14 @@ This AI stuff is kind of tough. Going to have to find more info on it.
 **Link to work:**
 [My CodinGame Profile](https://www.codingame.com/profile?utm_source=twitter&utm_medium=profile&utm_content=3465366&utm_campaign=Share%20options)
 
+### Day 13 - September 4, 2019:
+
+**Today's Progress**:
+Got a few more functional programming challenges done, through [Use the reduce Method to Analyze Data](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming/use-the-reduce-method-to-analyze-data)
+**Thoughts:**
+Apparently, reduce() can do some stuff that filter() and map() can't, for more general array processing. We'll see.
+**Link to work:**
+
 <!-- TEMPLATE
 ### Day X - DATE:
 
