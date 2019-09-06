@@ -107,6 +107,16 @@ Got a few more functional programming challenges done, through [Use the reduce M
 Apparently, reduce() can do some stuff that filter() and map() can't, for more general array processing. We'll see.
 **Link to work:**
 
+### Day 14 - September 5, 2019:
+
+**Today's Progress**:
+Finished the functional programming challenges. Huzzah!
+**Thoughts:**
+Got a bit stuck on "Sort an Array Alphabetically using the sort Method" since Chrome seems to have a different version of sort that treats characters differently(?) That was not so fun. Had to search the FreeCodeCamp forums to find that out. The "hint" had it wrong too - using the solution code failed in Chrome, in case it's unclear. That means perfectly valid JS code may not work properly in Chrome(ironically).
+
+Currying is defintely a concept I haven't seen until I started learning Javascript.
+**Link to work:**
+
 <!-- TEMPLATE
 ### Day X - DATE:
 
