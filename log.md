@@ -126,3 +126,13 @@ Something fun to do is to check out other solutions for the same problem. Someti
 
 **Link to work:**
 
+<!-- TEMPLATE
+### Day X - DATE:
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link to work:**
+
+-->
