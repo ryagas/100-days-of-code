@@ -117,13 +117,12 @@ Got a bit stuck on "Sort an Array Alphabetically using the sort Method" since Ch
 Currying is defintely a concept I haven't seen until I started learning Javascript.
 **Link to work:**
 
-<!-- TEMPLATE
-### Day X - DATE:
+### Day 15 - September 6, 2019:
 
 **Today's Progress**:
-
+Completed a couple algorithm challenges, including [Seek and Destroy](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy).
 **Thoughts:**
+Something fun to do is to check out other solutions for the same problem. Sometimes, the "advanced" solution can be a bit more readable (or less, if it's a bit too clever.)
 
 **Link to work:**
 
--->
