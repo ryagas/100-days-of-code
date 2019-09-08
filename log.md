@@ -126,6 +126,17 @@ Something fun to do is to check out other solutions for the same problem. Someti
 
 **Link to work:**
 
+
+### Day 16 - September 8, 2019:
+
+**Today's Progress**:
+Completed [Intermediate Algorithm Scripting: Wherefore art thou](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
+**Thoughts:**
+Remembering that filter can be used instead of convoluted loops with many ifs is tricky!
+**Link to work:**
+
+
+
 <!-- TEMPLATE
 ### Day X - DATE:
 
