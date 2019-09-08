@@ -150,6 +150,7 @@ Completed [Intermediate Algorithm Scripting: Wherefore art thou](https://learn.f
 
 **Thoughts:**
 Remembering that filter can be used instead of convoluted loops with many ifs is tricky!
+
 **Link to work:**
 
 
