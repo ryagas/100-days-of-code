@@ -158,8 +158,10 @@ Remembering that filter can be used instead of convoluted loops with many ifs is
 
 **Today's Progress**:
 Completed [Intermediate Algorithm Scripting: Spinal Tap Case](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
+
 **Thoughts:**
 I feel like regular expressions are the true arcane arts of programming.
+
 **Link to work:**
 
 
@@ -167,8 +169,10 @@ I feel like regular expressions are the true arcane arts of programming.
 ### Day X - DATE:
 
 **Today's Progress**:
+X
 
 **Thoughts:**
+X
 
 **Link to work:**
 
