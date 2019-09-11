@@ -165,16 +165,12 @@ I feel like regular expressions are the true arcane arts of programming.
 **Link to work:**
 
 
-<!-- TEMPLATE
-### Day X - DATE:
+### Day 18:
 
 **Today's Progress**:
-X
+Completed 2 algorithm challenges! Pig Latin *and* Search and Replace.
 
 **Thoughts:**
-X
-
+The Pig Latin one was tricky because, that's right, regular expressions. I know what I'll be practicing before and between projects!
 **Link to work:**
-
 -->
-
