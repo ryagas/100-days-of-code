@@ -27,7 +27,7 @@ Completed Basic Javascript challenges up through [Word Blanks](https://learn.fre
 **Thoughts:**
 Just making sure to reinforce the basics before the challenges ramp up.
 
-**Link to work:**  
+**Link to work:**
 https://twitter.com/ryagas/status/1163354861011795969
 
 ### Day 2 - August 19, 2019:
@@ -38,7 +38,7 @@ Completed Basic Javascript challenges up to [Comparison with the Greater Than Op
 **Thoughts:**
 Neat the .unshift can push a value onto the _front_ of an array. :)
 
-**Link to work:**  
+**Link to work:**
 https://twitter.com/ryagas/status/1163719099781963779
 
 ### Day 3 - August 20, 2019:
@@ -47,7 +47,7 @@ https://twitter.com/ryagas/status/1163719099781963779
 Completed Basic Javascript challenges up to [Basic JavaScript: Using Objects for Lookups](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups)
 **Thoughts:**
 Object properties instead of a switch statement? Interesting.
-**Link to work:**  
+**Link to work:**
 https://twitter.com/ryagas/status/1164073612359323648
 
 ### Day 4 - August 21, 2019:
@@ -153,7 +153,6 @@ Remembering that filter can be used instead of convoluted loops with many ifs is
 
 **Link to work:**
 
-
 ### Day 17 - September 9, 2019:
 
 **Today's Progress**:
@@ -164,13 +163,22 @@ I feel like regular expressions are the true arcane arts of programming.
 
 **Link to work:**
 
-
 ### Day 18:
 
 **Today's Progress**:
-Completed 2 algorithm challenges! Pig Latin *and* Search and Replace.
+Completed 2 algorithm challenges! Pig Latin _and_ Search and Replace.
 
 **Thoughts:**
 The Pig Latin one was tricky because, that's right, regular expressions. I know what I'll be practicing before and between projects!
+
 **Link to work:**
--->
+
+### Day 19: September 17, 2019
+
+**Today's Progress**:
+Completed [Intermediate Algorithm challenge: DNA Pairing](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/dna-pairing), [Missing letters](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters), [Sorted union](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sorted-union)
+
+**Thoughts:**
+Missed a couple days. That's a bit rough.
+
+**Link to work:**
