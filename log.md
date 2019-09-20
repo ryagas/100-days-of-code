@@ -182,3 +182,14 @@ Completed [Intermediate Algorithm challenge: DNA Pairing](https://learn.freecode
 Missed a couple days. That's a bit rough.
 
 **Link to work:**
+
+### Day 20: September 19, 2019
+
+**Today's Progress**:
+Finished a few React component challenges for a Udemy course before starting on the stateless functional components section.
+
+**Thoughts:**
+Nice to be able to create even a basic component from just the instructor's description.
+
+**Link to work:**
+https://github.com/ryagas/indecision-app/commit/871a304ab8bc8900f768bce880929ca75c753d77
