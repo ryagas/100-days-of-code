@@ -193,3 +193,15 @@ Nice to be able to create even a basic component from just the instructor's desc
 
 **Link to work:**
 https://github.com/ryagas/indecision-app/commit/871a304ab8bc8900f768bce880929ca75c753d77
+
+
+
+### Day 21: September 20, 2019
+
+**Today's Progress**:
+Began learning how to use webpack for the current project in the React course.
+
+**Thoughts:**
+
+**Link to work:**
+https://github.com/ryagas/indecision-app/commit/c098b01aa392127ad772266da2d944d6680f3929
