@@ -209,7 +209,7 @@ https://github.com/ryagas/indecision-app/commit/c098b01aa392127ad772266da2d944d6
 ### Day 22-24: September 21-23, 2019
 
 **Today's Progress**:
-A wrapped up the indecision-app and began working on expensify-app and learning Redux.
+Wrapped up the indecision-app and began working on expensify-app and learning Redux.
 
 **Thoughts:**
 Redux is an interesting way to deal with application state.
