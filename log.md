@@ -205,3 +205,15 @@ Began learning how to use webpack for the current project in the React course.
 
 **Link to work:**
 https://github.com/ryagas/indecision-app/commit/c098b01aa392127ad772266da2d944d6680f3929
+
+### Day 22-24: September 21-23, 2019
+
+**Today's Progress**:
+A wrapped up the indecision-app and began working on expensify-app and learning Redux.
+
+**Thoughts:**
+Redux is an interesting way to deal with application state.
+
+**Link to work:**
+https://github.com/ryagas/indecision-app/commit/b5633adc3ccf81ab97f8deb098b9c9807ba0dcf8
+
