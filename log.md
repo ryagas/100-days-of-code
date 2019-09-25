@@ -217,3 +217,13 @@ Redux is an interesting way to deal with application state.
 **Link to work:**
 https://github.com/ryagas/indecision-app/commit/b5633adc3ccf81ab97f8deb098b9c9807ba0dcf8
 
+### Day 25: September 24, 2019
+
+**Today's Progress**:
+Continuing to build the expensify app. A few more reducers to go.
+
+**Thoughts:**
+It's kind of neat how reducers turn some state plus action information into the changed state.
+
+**Link to work:**
+
