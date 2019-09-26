@@ -227,3 +227,13 @@ It's kind of neat how reducers turn some state plus action information into the 
 
 **Link to work:**
 
+
+### Day 26: September 25, 2019
+
+**Today's Progress**:
+Reducers and filters done. Beginning on getting the React parts to work with the redux parts.
+
+**Thoughts:**
+Gears are starting to turn more and more as soon as the instructor says "now it's your turn...write the code for these parts"
+
+**Link to work:**
