@@ -237,3 +237,12 @@ Reducers and filters done. Beginning on getting the React parts to work with the
 Gears are starting to turn more and more as soon as the instructor says "now it's your turn...write the code for these parts"
 
 **Link to work:**
+
+### Day 27: September 26, 2019
+
+**Today's Progress**:
+Continued building out the expensify app, adding a date picker to the form for adding an expense.
+
+**Thoughts:**
+
+**Link to work:**
