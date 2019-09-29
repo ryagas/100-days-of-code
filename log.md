@@ -246,3 +246,13 @@ Continued building out the expensify app, adding a date picker to the form for a
 **Thoughts:**
 
 **Link to work:**
+
+### Day 28-29: September 27-28, 2019
+
+**Today's Progress**:
+Finished the react-redux section. Getting started with testing using Jest and Enzyme.
+
+**Thoughts:**
+Testing is not very exciting, but it **is** useful. 
+
+**Link to work:**
