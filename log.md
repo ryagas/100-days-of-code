@@ -194,8 +194,6 @@ Nice to be able to create even a basic component from just the instructor's desc
 **Link to work:**
 https://github.com/ryagas/indecision-app/commit/871a304ab8bc8900f768bce880929ca75c753d77
 
-
-
 ### Day 21: September 20, 2019
 
 **Today's Progress**:
@@ -227,7 +225,6 @@ It's kind of neat how reducers turn some state plus action information into the 
 
 **Link to work:**
 
-
 ### Day 26: September 25, 2019
 
 **Today's Progress**:
@@ -253,6 +250,18 @@ Continued building out the expensify app, adding a date picker to the form for a
 Finished the react-redux section. Getting started with testing using Jest and Enzyme.
 
 **Thoughts:**
-Testing is not very exciting, but it **is** useful. 
+Testing is not very exciting, but it **is** useful.
 
 **Link to work:**
+
+### Day 30-31: September 29-30
+
+**Today's Progress**:
+Finished up the test suites, prepped and deployed to a production server (Heroku).
+
+**Thoughts:**
+Learned what happens when one doesn't hit "save" before committing and pushing (unexpected errors in production, but not on dev server!)
+
+**Link to work:**
+https://github.com/ryagas/expensify-app
+https://ryagas-react-expensify.herokuapp.com/
