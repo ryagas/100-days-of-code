@@ -265,3 +265,14 @@ Learned what happens when one doesn't hit "save" before committing and pushing (
 **Link to work:**
 https://github.com/ryagas/expensify-app
 https://ryagas-react-expensify.herokuapp.com/
+
+### Day 32-34: October 1-3, 2019
+
+**Today's Progress**:
+After a bit of progress, plus a stumble requiring a reverting of a day's worth of code, managed a couple deploys after implementing expense creation and retrieval (the C and R in CRUD!)
+
+**Thoughts:**
+Probably should stop coding while on a beta OS. Jest testing is not able to connect to firebase and there's likely a memory leak with node during testing due to it.
+
+**Link to work:**
+https://github.com/ryagas/expensify-app/commit/6b07669e2cdb835cd5c6bf2ad2498e4313a3bc14
