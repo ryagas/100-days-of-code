@@ -276,3 +276,13 @@ Probably should stop coding while on a beta OS. Jest testing is not able to conn
 
 **Link to work:**
 https://github.com/ryagas/expensify-app/commit/6b07669e2cdb835cd5c6bf2ad2498e4313a3bc14
+
+### Day 35-36: October 4-5, 2019
+
+**Today's Progress**: 
+A couple days featuring wrapup on the Expensify app's functionality, adding Google authentication, and beginning to add styles to the app.
+
+**Thoughts:**
+Authentication was broken on deployment to Heroku. Had to regenerate API token for Firebase. Took time for the new token to "stick". Wasn't fun for a while.
+
+**Link to work:**
