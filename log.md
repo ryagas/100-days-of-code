@@ -286,3 +286,14 @@ A couple days featuring wrapup on the Expensify app's functionality, adding Goog
 Authentication was broken on deployment to Heroku. Had to regenerate API token for Firebase. Took time for the new token to "stick". Wasn't fun for a while.
 
 **Link to work:**
+
+### Day 37: October 6, 2019
+
+**Today's Progress**:
+Completed the Expensify app for the React course, including live deployment. :)
+
+**Thoughts:**
+Feels good since it was not simply a code-along course. The challenges started of pretty basic and then ramped up once the basics were out of the way.
+
+**Link to work:**
+https://ryagas-react-expensify.herokuapp.com/
