@@ -297,3 +297,13 @@ Feels good since it was not simply a code-along course. The challenges started o
 
 **Link to work:**
 https://ryagas-react-expensify.herokuapp.com/
+
+### Day 38: October 7, 2019
+
+**Today's Progress**:
+Completed the Complete React Developer Course, finishing it off with Hooks. Feels pretty good.
+
+**Thoughts:**
+Will definitely get to practicing this stuff so it doesn't fade.
+
+**Link to work:**
