@@ -279,7 +279,7 @@ https://github.com/ryagas/expensify-app/commit/6b07669e2cdb835cd5c6bf2ad2498e431
 
 ### Day 35-36: October 4-5, 2019
 
-**Today's Progress**: 
+**Today's Progress**:
 A couple days featuring wrapup on the Expensify app's functionality, adding Google authentication, and beginning to add styles to the app.
 
 **Thoughts:**
@@ -305,5 +305,15 @@ Completed the Complete React Developer Course, finishing it off with Hooks. Feel
 
 **Thoughts:**
 Will definitely get to practicing this stuff so it doesn't fade.
+
+**Link to work:**
+
+### Day 39: October 14, 2019
+
+**Today's Progress**:
+Missed a few days after the React course was done, but jumped back on the FreeCodeCamp challenges. Finished today: Roman Numeral Converter and Caesar's Cipher.
+
+**Thoughts:**
+Small gotcha in the rot-13 function with Javascript. Since the string search() function expects a regular expression or something that can be converted to one, it acts funny when a character is one of the "magic" characters for RegEx, like "?" :D
 
 **Link to work:**
