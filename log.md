@@ -317,3 +317,14 @@ Missed a few days after the React course was done, but jumped back on the FreeCo
 Small gotcha in the rot-13 function with Javascript. Since the string search() function expects a regular expression or something that can be converted to one, it acts funny when a character is one of the "magic" characters for RegEx, like "?" :D
 
 **Link to work:**
+
+### Day 40: October 16, 2019
+
+**Today's Progress**:
+Got some practice in by implementing a circular queue in Python.
+
+**Thoughts:**
+Most of the time was spent fixing typos and re-testing. Seems normal. :)
+
+**Link to work:**
+https://leetcode.com/problems/design-circular-queue/submissions/
