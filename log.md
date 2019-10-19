@@ -328,3 +328,13 @@ Most of the time was spent fixing typos and re-testing. Seems normal. :)
 
 **Link to work:**
 https://leetcode.com/problems/design-circular-queue/submissions/
+
+### Day 41: October 18, 2019
+
+**Today's Progress**:
+Algorithms practice, as part of an interview prep course, featuring anagrams, array chunks, and word capitalization.
+
+**Thoughts:**
+Working on picking up common "tricks" to solving common algorithms.
+
+**Link to work:**
